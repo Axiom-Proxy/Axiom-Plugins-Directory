@@ -1,7 +1,8 @@
 [
   {
-    "name": "Custom Start Page",
-    "description": "Allows you to set a custom page to open when first opening Axiom",
-    "src": "custom-start-page.js"
+    "name": "Rainbow Theme",
+    "description": "It's a rainow theme. Lowkey gay",
+    "src": "rainbow-theme.js"
   }
+  
 ]
