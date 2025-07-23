@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Custom Start Page",
+    "description": "Allows you to set a custom page to open when first opening Axiom",
+    "src": "custom-start-page.js"
+  }
+]
