@@ -1,8 +1,29 @@
 [
+  
   {
     "name": "Rainbow Theme",
     "description": "It's a rainow theme. Lowkey gay",
     "src": "rainbow-theme.js"
-  }
+  },
+    {
+    "name": "Pomodoro Timer",
+    "description": "It's a timer.",
+    "src": "pomodoronotes.js"
+  },
+    {
+    "name": "Notes",
+    "description": "If you need a explanation for this - you should be studying rather than on Axiom",
+    "src": "notes.js"
+  },
+    {
+    "name": "Dark Reader",
+    "description": "makes things BLACK",
+    "src": "darkreader.js"
+  },
+    {
+    "name": "Advanced Tabs",
+    "description": "Maybe a lie",
+    "src": "advancedtabs.js"
+  },
   
 ]
